@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Agen Shop Project](https://agen.io.vn/cms)
 
-- 🌱 I’m currently learning **AI Engineer**
+- 🌱 I’m currently learning **Information Technology**
 
 - 💬 Ask me about **react, next.js, java, javascript**
 
