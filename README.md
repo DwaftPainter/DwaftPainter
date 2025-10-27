@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nghiêm Thành Công</h1>
-<h3 align="center">A passionate fullstack developer from Vietnamese</h3>
+<h3 align="center">A passionate front-end developer from Vietnamese</h3>
 
 - 🔭 I’m currently working on [Agen Shop Project](https://agen.io.vn/cms)
 
