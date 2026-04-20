@@ -7,7 +7,7 @@
 
 <!-- 👨‍💻 NAME / TITLE -->
 <h2 align="center">Hi 👋 I'm Nghiêm Thành Công</h2>
-<h4 align="center">Fullstack Developer • Backend & System Focus</h4>
+<h4 align="center">Web Developer</h4>
 
 ---
 
