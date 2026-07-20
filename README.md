@@ -80,7 +80,6 @@
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DwaftPainter&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DwaftPainter&theme=tokyonight" />
 </p>
 
