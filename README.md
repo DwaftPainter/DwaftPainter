@@ -78,7 +78,7 @@
 
 <!-- 📊 STATS -->
 <h3>📊 GitHub Stats</h3>
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 ---
 
 <!-- 🧱 FOOTER -->
