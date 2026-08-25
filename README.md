@@ -56,26 +56,6 @@
 
 ---
 
-<!-- 🚀 PROJECTS -->
-<h3>🚀 Featured Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/DwaftPainter/IVY-LMS">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DwaftPainter&repo=IVY-LMS" />
-  </a>
-  <a href="https://github.com/DwaftPainter/ss2-accommodation-finder-web">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DwaftPainter&repo=ss2-accommodation-finder-web" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DwaftPainter/ss2-accommodation-finder-api">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DwaftPainter&repo=ss2-accommodation-finder-api" />
-  </a>
-</p>
-
----
-
 <!-- 📊 STATS -->
 <h3>📊 GitHub Stats</h3>
 
